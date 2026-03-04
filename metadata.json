@@ -1,0 +1,5 @@
+{
+  "name": "CPU Scheduler Sim",
+  "description": "A comprehensive CPU scheduling algorithm simulator featuring FCFS, SJF, and Priority scheduling with Gantt chart visualization.",
+  "requestFramePermissions": []
+}
